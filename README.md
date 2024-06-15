@@ -9,4 +9,4 @@ I'm Solarity, a javascript dev that creates proxies and unblocked game websites
 Aurora - an unblocked game and proxy site (not currently out)
 
 ## Contact
-- Discord - solardisc
+i guess make an issue on this repo
