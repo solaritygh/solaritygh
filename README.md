@@ -6,7 +6,7 @@ I'm Solarity, a javascript dev that creates proxies and unblocked game websites
 - Languages: Mostly JS (frontend & backend), Java, and Python
 
 ## Current Projects
-Aurora - an unblocked game and proxy site (not currently out)  
+Neptune - an unblocked game and proxy site (not currently out)  
 Polar - a fork of the Polar server software, with active updates   
 
 ## Contact
