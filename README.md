@@ -3,7 +3,7 @@ I'm Solarity, a javascript dev that creates proxies and unblocked game websites
 
 ## About me
 - Pronouns: he/him
-- Languages: Mostly JS (frontend & backend)
+- Languages: Mostly JS (frontend & backend), Java, and Python
 
 ## Current Projects
 Aurora - an unblocked game and proxy site (not currently out)  
