@@ -8,6 +8,7 @@ I'm Solarity, a javascript dev that creates proxies and unblocked game websites
 ## Current Projects
 Neptune - an unblocked game and proxy site (not currently out)  
 Polar - a fork of the Polar server software, with active updates   
+Solar - a minecraft hacked client.
 
 ## Contact
 i guess make an issue on this repo
