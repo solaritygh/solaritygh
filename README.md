@@ -1,14 +1,15 @@
 # Hello there!
-I'm Solarity, a javascript dev that creates proxies and unblocked game websites
+I'm Solarity, a java dev that creates silly programs.
 
 ## About me
 - Pronouns: he/him
-- Languages: Mostly JS (frontend & backend), Java, and Python
+- Languages: Java, Node.JS, C++, and Python
 
 ## Current Projects
-Neptune - an unblocked game and proxy site (not currently out)  
-Polar - a fork of the Polar server software, with active updates   
-Solar - a minecraft hacked client.
+Polar - a fork of the Polar server software, with active* updates   
+Pixel - a 1.8.9 mcp minecraft client.
 
 ## Contact
 i guess make an issue on this repo
+
+*Not active too much.
