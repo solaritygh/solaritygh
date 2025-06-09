@@ -9,7 +9,8 @@ I'm Solarity, a java dev that creates silly programs.
 Polar - a fork of the Polar server software, with active* updates   
 Pixel - a 1.8.9 mcp minecraft client.
 
+*Not active too much.  
+
 ## Contact
 i guess make an issue on this repo
 
-*Not active too much.
