@@ -1,5 +1,5 @@
 # Hello there!
-I'm Solarity, a java dev that creates silly programs.
+I'm Solarity, a dev that creates silly programs.
 
 ## About me
 - Pronouns: he/him
